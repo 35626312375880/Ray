@@ -1,2 +1,1 @@
-# Ray
-My personal repository
+# About me
